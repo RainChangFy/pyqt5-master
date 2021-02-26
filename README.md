@@ -28,7 +28,7 @@
 
 * **Clock**
 
-钟表绘制
+[钟表绘制](https://github.com/Largefreedom/pyqt5-master/tree/master/Clock)
 
 ![Clock](https://images.zeroingpython.top/img/Clock.gif)
 
