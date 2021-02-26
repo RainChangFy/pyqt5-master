@@ -24,6 +24,14 @@
 ![Snipaste_2020-08-02_20-55-46.png](http://ww1.sinaimg.cn/large/007wRTdIly1ghcrjq6i9bj309f09saam.jpg)
 ![录制_2020_08_02_19_41_58_289.gif](http://ww1.sinaimg.cn/large/007wRTdIly1ghcrmlq09zg30zk0k0npf.gif)
 
+---
+
+* **Clock**
+
+钟表绘制
+
+![Clock](https://images.zeroingpython.top/img/Clock.gif)
+
 -----
 
 #### 个人小建议：代码结合博客食用效果更佳，博客地址：[小张Python | 专注 Python 编程！ (zeroingpython.top)](https://zeroingpython.top/)
